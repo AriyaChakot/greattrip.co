@@ -3,3 +3,8 @@ wp-content/uploads/
 .htaccess
 node_modules/
 *.log
+
+wp-content/updraft/
+*.zip
+*.bak
+*.tar
